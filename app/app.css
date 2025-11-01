@@ -20,7 +20,7 @@ body {
   @apply bg-[#F6F7FA] font-poppins text-black;
 
 
-  @media (prefers-color-scheme: dark) {
+  /* @media (prefers-color-scheme: dark) {
     color-scheme: dark;
   }
 }
